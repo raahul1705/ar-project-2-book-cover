@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CTCI_front" size="0.750000 1.071429" />
+    <ImageTarget name="CTCI_back" size="0.750000 1.071429" />
+    <ImageTarget name="habit_front" size="0.750000 1.156812" />
+    <ImageTarget name="habit_back" size="0.750000 1.156463" />
+    <ImageTarget name="1984_back_cover" size="0.750000 1.380302" />
+    <ImageTarget name="1984_front_cover" size="1.000000 1.791463" />
+    <ImageTarget name="vanderbilt" size="0.100000 0.074701" />
+  </Tracking>
+</QCARConfig>
