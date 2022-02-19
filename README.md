@@ -7,15 +7,21 @@ contains a laptop with a code editor opened, notebook, and cup to represent the 
 This AR cover represents to some extent that the book is about the software engineer interview process by showing 
 what the workspace for a software engineer is like. 
 
-![AR Front Cover for *Cracking the Coding Interview*](docs/images/book_cover_front.jpg)
+### AR Front Cover for *Cracking the Coding Interview*
+
+<img src="docs/images/book_cover_front.jpg" alt="AR Front Cover for Cracking the Coding Interview" width="200"/>
 
 On the back cover, I display a basic fact sheet about the book with an AR button rendered on top of the book as well in white.
 When the AR button is clicked by hovering over it using your hand in view of the device camera, the fact sheet switches to 
 my review of the book. The AR button lets you toggle between the fact sheet and review by clicking on it.
 
-![AR Back Cover with Fact Sheet Overview](docs/images/book_cover_back_overview.jpg)
+### AR Back Cover with Fact Sheet Overview
 
-![AR Back Cover with Review](docs/images/book_cover_back_review.jpg)
+<img src="docs/images/book_cover_back_overview.jpg" alt="AR Back Cover with Fact Sheet Overview" width="200"/>
+
+### AR Back Cover with Review
+
+<img src="docs/images/book_cover_back_review.jpg" alt="AR Back Cover with Review" width="200"/>
 
 **Drive Link to Video of AR Book Cover**
 
