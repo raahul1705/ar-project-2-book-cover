@@ -41,7 +41,9 @@ with ARCore. Then, execute Build and Run to build and execute the program on you
 The main limitations for this project are that there are certain tracking issues where it takes a few 
 seconds for the book cover to be detected in the world. So, there is a delay where the AR book cover does
 not render quick enough once the actual book cover is detected. This issue is related to Vuforia, so there
-is nothing much that can be done from a programming end.
+is nothing much that can be done from a programming end. The AR button also has trouble detecting if it has
+been clicked. This problem is also related to problems with Vuforia's AR tracking system. So, the button 
+sometimes does not register clicks or misregisters clicks. 
 
 ## Running the program
 
